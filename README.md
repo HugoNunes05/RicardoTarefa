@@ -38,7 +38,7 @@ Versionamento	Git / GitHub
 
 Clone o repositório:
 
-git clone git@github.com:RuanTrindade/ListaDeTarefaFema.git
+git clone git https://github.com/HugoNunes05/RicardoTarefa
 
 
 Acesse a pasta do front-end:
